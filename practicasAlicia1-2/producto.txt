@@ -1,0 +1,10 @@
+1.smartphone
+2.computadora portatil
+3.televisor LED
+4.consola de videojuegos
+5.camara fotografica
+6.reloj inteligente
+7.altavoces bluetooth
+8.tablet
+9.impresora laser
+10.auriculares inalambricos
